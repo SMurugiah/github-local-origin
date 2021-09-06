@@ -4,7 +4,8 @@ added few  lines
 adding new line before merge and address conflicts
 
 <<<<<<< HEAD
-new line i like green
+new line i like blue
+change from green to blue
 
 =======
 I like blue and black
