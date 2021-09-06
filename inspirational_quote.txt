@@ -5,13 +5,6 @@ added steps in the file
 now run git init to initalize git
 we can use ls -a to see all the files includding hidden files
 
-add new changes
-
-%%%%%%%%%% if miss to add message -m then follow below steps %%%%%%%%%%%
-press i (to insert)
-then type the message and press escape
-then type :wq
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 ==== following are the git commands
 
 git init
