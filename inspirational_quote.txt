@@ -1,0 +1,14 @@
+created a git directory using mkdir
+created a file using touch filename
+added steps in the file
+---
+now run git init to initalize git
+we can use ls -a to see all the files includding hidden files
+
+==== following are the git commands
+
+git init
+git status
+git add
+git commit
+git log
