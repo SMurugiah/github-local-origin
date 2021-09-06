@@ -3,3 +3,6 @@ added few  lines
 
 adding new line before merge and address conflicts
 
+new line i like green
+
+
