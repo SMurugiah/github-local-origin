@@ -4,10 +4,15 @@ added few  lines
 adding new line before merge and address conflicts
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 new line i like super
 change from green to blue
 
 =======
 I like blue and black
+>>>>>>> second_branch
+=======
+I like yellow
+
 >>>>>>> second_branch
 
