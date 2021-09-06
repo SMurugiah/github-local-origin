@@ -4,7 +4,7 @@ added few  lines
 adding new line before merge and address conflicts
 
 <<<<<<< HEAD
-new line i like blue
+new line i like super
 change from green to blue
 
 =======
