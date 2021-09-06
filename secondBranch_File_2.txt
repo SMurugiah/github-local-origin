@@ -1,0 +1,2 @@
+this is file 2 from second branch
+added few  lines
