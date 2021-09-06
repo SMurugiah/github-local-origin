@@ -5,6 +5,8 @@ added steps in the file
 now run git init to initalize git
 we can use ls -a to see all the files includding hidden files
 
+add new changes
+
 ==== following are the git commands
 
 git init
