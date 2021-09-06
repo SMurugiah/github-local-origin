@@ -19,3 +19,11 @@ git status
 git add
 git commit
 git log
+
+============================ Level 2 ======
+git revert -n (will help to revert the changes to previous commit)
+git reset
+
+git revert -n commit id (commit id will get by running git log)
+ex: git revert -n
+
