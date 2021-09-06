@@ -3,6 +3,10 @@ added few  lines
 
 adding new line before merge and address conflicts
 
+<<<<<<< HEAD
 new line i like green
 
+=======
+I like blue and black
+>>>>>>> second_branch
 
