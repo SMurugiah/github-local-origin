@@ -1,2 +1,5 @@
 this is file 2 from second branch
 added few  lines
+
+adding new line before merge and address conflicts
+
